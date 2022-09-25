@@ -1,0 +1,28 @@
+.cabecalho{
+    border-style: double;
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+    color: brown;
+}
+
+main{
+    display: flex;
+	border: 1px solid black;
+	padding: 2% 2%;
+	background: local brown;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#imgs{
+    border-radius: 12%;
+	border: 2px solid white;
+	margin: 2px 2px;
+}
+
+div h4{
+    text-align: center;
+    color: blanchedalmond;
+}
+
